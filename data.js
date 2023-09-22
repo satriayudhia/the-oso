@@ -24,23 +24,23 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -2.021184990353266,
-        "pitch": -0.06185111377130248,
-        "fov": 1.3826135306839293
+        "yaw": -2.18881171069596,
+        "pitch": -0.00344522505769973,
+        "fov": 1.346652622894294
       },
       "linkHotspots": [
         {
-          "yaw": -1.4937671681662223,
-          "pitch": 0.0046704784434652424,
+          "yaw": -1.4244910395664565,
+          "pitch": 0.0015027345314351237,
           "rotation": 0,
-          "target": "1-1a-ruang-utama"
+          "target": "1-1a---ruang-utama-v2"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-1a-ruang-utama",
-      "name": "1A. RUANG UTAMA",
+      "id": "1-1a---ruang-utama-v2",
+      "name": "1A - RUANG UTAMA v2",
       "levels": [
         {
           "tileSize": 256,
@@ -62,40 +62,40 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 2.9764011737001885,
-        "pitch": 0.10850250958265306,
-        "fov": 1.3826135306839293
+        "yaw": 2.123783510177385,
+        "pitch": 0.0957402797402871,
+        "fov": 1.3672870777451915
       },
       "linkHotspots": [
         {
-          "yaw": -0.4888891375746578,
-          "pitch": 0.41247370347176116,
+          "yaw": -0.3469123212528,
+          "pitch": 0.17579227301931866,
           "rotation": 0,
           "target": "0-2a-view-perumahan"
         },
         {
-          "yaw": -2.466786895363022,
-          "pitch": 0.07545947631335537,
-          "rotation": 1.5707963267948966,
-          "target": "4-1d-kmr-mandi"
-        },
-        {
-          "yaw": 1.843402016531373,
-          "pitch": 0.17957774004883476,
+          "yaw": 1.35493007946007,
+          "pitch": 0.291108116632504,
           "rotation": 0,
           "target": "2-1b-ruang-dalam-1"
         },
         {
-          "yaw": 3.073864816182205,
-          "pitch": 0.13316916071659257,
+          "yaw": -1.8985707051751746,
+          "pitch": 0.2718497070624757,
           "rotation": 0,
-          "target": "5-1e-halaman-blkng"
+          "target": "3-1c-ruang-dalam-2"
         },
         {
-          "yaw": 3.095589439619494,
-          "pitch": 0.4017419871886556,
-          "rotation": 1.5707963267948966,
-          "target": "3-1c-ruang-dalam-2"
+          "yaw": 2.9681704617825497,
+          "pitch": 0.16143196952786631,
+          "rotation": 0,
+          "target": "4-1d-kmr-mandi"
+        },
+        {
+          "yaw": 2.4535921683688358,
+          "pitch": 0.20088284351878904,
+          "rotation": 0,
+          "target": "5-1e-halaman-blkng"
         }
       ],
       "infoHotspots": []
@@ -124,16 +124,16 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.8117018772193383,
-        "pitch": 0.09696057228399546,
-        "fov": 1.3826135306839293
+        "yaw": -0.659979985989704,
+        "pitch": 0.36507452945867414,
+        "fov": 1.3672870777451915
       },
       "linkHotspots": [
         {
-          "yaw": 2.2456726690248674,
-          "pitch": 0.2948389876093387,
+          "yaw": 2.263350411551162,
+          "pitch": 0.24978734680207992,
           "rotation": 0,
-          "target": "1-1a-ruang-utama"
+          "target": "1-1a---ruang-utama-v2"
         }
       ],
       "infoHotspots": []
@@ -162,16 +162,16 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -1.0738372720920353,
-        "pitch": 0.20485241632993478,
-        "fov": 1.3826135306839293
+        "yaw": -0.5633533534987123,
+        "pitch": 0.36260806854782857,
+        "fov": 1.3672870777451915
       },
       "linkHotspots": [
         {
-          "yaw": 1.9668311825841842,
-          "pitch": 0.23974452176538108,
+          "yaw": 1.9819767334827656,
+          "pitch": 0.2808542151841156,
           "rotation": 0,
-          "target": "1-1a-ruang-utama"
+          "target": "1-1a---ruang-utama-v2"
         }
       ],
       "infoHotspots": []
@@ -200,16 +200,16 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.24628535000364238,
-        "pitch": 0.5573141002529312,
-        "fov": 1.3826135306839293
+        "yaw": -0.29670597283902467,
+        "pitch": 0.5786746490456949,
+        "fov": 1.3672870777451915
       },
       "linkHotspots": [
         {
-          "yaw": 2.719433854030534,
-          "pitch": 0.29945869711729856,
+          "yaw": 2.6878189620938127,
+          "pitch": 0.3339115386239264,
           "rotation": 0,
-          "target": "1-1a-ruang-utama"
+          "target": "1-1a---ruang-utama-v2"
         }
       ],
       "infoHotspots": []
@@ -238,22 +238,22 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -1.1287784191011454,
-        "pitch": 0.04452322180311974,
-        "fov": 1.3826135306839293
+        "yaw": -0.8164262389884698,
+        "pitch": 0.06728774988905784,
+        "fov": 1.3672870777451915
       },
       "linkHotspots": [
         {
-          "yaw": 2.378420259062489,
-          "pitch": 0.14696069698658576,
+          "yaw": 2.3755388301890497,
+          "pitch": 0.24119503258235753,
           "rotation": 0,
-          "target": "1-1a-ruang-utama"
+          "target": "1-1a---ruang-utama-v2"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "THE OSO",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
